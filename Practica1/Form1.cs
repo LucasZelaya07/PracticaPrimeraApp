@@ -14,6 +14,7 @@ namespace Practica1
     {
         public frmMiPrimeraApp()
         {
+            //Comento para verificar cambio en GitHub
             InitializeComponent();
         }
         //Comentare las finalidades de los eventos
